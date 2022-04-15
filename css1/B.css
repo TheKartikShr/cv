@@ -1,0 +1,31 @@
+
+/*********TAG SELECTERS ************/
+body {
+  background-color: skyblue;
+}
+h1:hover {
+  background-color: gold;
+}
+h1 {
+  background-color: powderblue;
+  transition: background-color .6s;
+}
+
+img {
+  background-color: gold;
+}
+
+/* img {
+  background-color: blue;
+} */
+/* ************CLASS SELECTERS *******/
+.Gordon{
+  background-color: white;
+}
+.circular {
+  border-radius: 100%
+}
+/***********ID SELECTERS ************/
+/* #heading {
+  color: blue;
+} */
